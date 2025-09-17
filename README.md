@@ -6,8 +6,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGoxMDI5dGVuN2xnaDJhazJlZ2xtNjlqamNkMGZ5amkwd3c1dDB3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
