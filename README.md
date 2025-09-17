@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
   <h1 align="center">Hi there 👋 Soy Brisna Huerta</h1>
-  <h3 align="center">Data Analyst & Jr. Data Scientist 🚀</h3>
+  <h3 align="center">Jr. Data Scientist & Analytics 🚀</h3>
 </div>
 
 ---
