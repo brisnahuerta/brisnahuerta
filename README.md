@@ -7,8 +7,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ritik307/ritik307/main/images/data-science.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZjaWkwbXd5czRrNnE0ajh0MmtzNW42eWdiMWY4a2Y2bDd5bzEwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ynCEtlgMPAeNAqdnu/giphy.gif" width="600" height="300"/>
 </div>
+
 
 ---
 
