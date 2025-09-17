@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/ritik307/ritik307/blob/main/images/data-science.gif" width="600" height="300"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*IRGHmiGsa16stedQvIaZfw.gif" width="600" height="300"/>
 </div>
 
 ---
