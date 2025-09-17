@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*IRGHmiGsa16stedQvIaZfw.gif" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/matrix.gif" width="600" height="300"/>
 </div>
 
 ---
