@@ -49,9 +49,11 @@ Modelo predictivo de abandono de clientes con **AUC > 0.88**, integrando múltip
 ---
 
 ### :fire: Mis estadísticas:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brisnahuerta&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brisnahuerta&layout=compact&theme=vision-friendly-dark&langs_count=6&hide=Jupyter%20Notebook,CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Repos por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brisnahuerta&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brisnahuerta&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ---
 
