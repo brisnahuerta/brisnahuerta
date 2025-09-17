@@ -52,9 +52,6 @@ Modelo predictivo de abandono de clientes con **AUC > 0.88**, integrando múltip
 
 [![Repos por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brisnahuerta&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brisnahuerta&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
 ---
 
 ### :link: Conecta conmigo  
