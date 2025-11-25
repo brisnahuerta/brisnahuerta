@@ -10,9 +10,10 @@
 
   <hr style="width: 60%; border: 1px solid #0A84FF;">
 
-  <p style="font-size: 16px; margin-top: 10px;">
+  <p style="font-size: 20px; margin-top: 10px; font-weight: 700; color: #0A84FF;">
     Jr. Data Scientist · AI · Machine Learning · BI
   </p>
+
 
 </div>
 
