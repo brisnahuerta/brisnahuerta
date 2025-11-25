@@ -1,12 +1,24 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
-  <h1 align="center">¡HOLA! 👋 Soy Brisna Huerta</h1>
-  <h3 align="center">Jr. Data Scientist & Analytics 🚀</h3>
+<div align="center">
+
+  <h1 style="font-weight: 900; margin-bottom: -10px;">
+    ¡HOLA!
+  </h1>
+
+  <h2 style="color: #0A84FF; font-weight: 600;">
+    Soy Brisna Huerta
+  </h2>
+
+  <hr style="width: 60%; border: 1px solid #0A84FF;">
+
+  <p style="font-size: 16px; margin-top: 10px;">
+    Jr. Data Scientist · AI · Machine Learning · BI
+  </p>
+
 </div>
 
 ---
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGoxMDI5dGVuN2xnaDJhazJlZ2xtNjlqamNkMGZ5amkwd3c1dDB3aSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -27,12 +39,12 @@ A medida que enfrentaba preguntas más complejas —costos proyectados, escenari
 Eso me llevó a prepararme en **Data Analytics y Data Science**, donde desarrollé habilidades en:
 
 - Python (Pandas, NumPy, Scikit-Learn, TensorFlow)  
-- SQL
+- SQL  
 - Análisis estadístico y modelos predictivos  
-- Visualización clara para la toma de decisiones
-- Gen AI
+- Visualización clara para la toma de decisiones  
+- Gen AI  
 
-Desde entonces he trabajado en proyectos de **modelos predictivos, validación de datos, análisis exploratorio, optimización y automatización de procesos**, tanto en entornos corporativos como NIQ y Petstar como en proyectos especializados de Machine Learning.
+Desde entonces he trabajado en proyectos de **modelos predictivos, validación de datos, análisis exploratorio, optimización y automatización de procesos**, tanto en entornos corporativos como **NielsenIQ y PetStar**, como en proyectos especializados de Machine Learning.
 
 Mi objetivo es unir **el entendimiento de negocio** con **la técnica**, creando soluciones que no solo sean precisas, sino también comprensibles, accionables y con un impacto real.
 
@@ -49,7 +61,7 @@ Mi objetivo es unir **el entendimiento de negocio** con **la técnica**, creando
 🔹 **[Rusty Bargain – Predicción de precios de autos](https://github.com/brisnahuerta/rusty_bargain)**  
 Modelo de regresión para predecir precios de autos usados. Incluye EDA, ingeniería de características y optimización de hiperparámetros (LightGBM), logrando **RMSE < 0.42**.
 
-🔹 **[Sweet Lift Taxi – Predicción de demanda](https://github.com/brisnahuerta/sweet_lift_taxi)**  
+🔹 **[Sweet Lift Taxi – Predicción de demanda](https://github.com/brisnahuerta/sweet-lift-taxi)**  
 Modelo de series temporales para estimar demanda de taxis por hora. Alcancé **sMAPE < 48** mediante descomposición estacional y modelos de predicción.
 
 🔹 **[Film Junky Union – Análisis de reseñas IMDB (NLP)](https://github.com/brisnahuerta/film_junky_union)**  
