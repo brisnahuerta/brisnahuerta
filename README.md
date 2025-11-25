@@ -1,4 +1,24 @@
 <div align="center">
+  <img src="/mnt/data/A_GitHub_profile_README_graphic_introduces_Brisna_.png" width="100%"/>
+</div>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brisnahuerta">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/brisnahuerta?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorio%20de%20Proyectos-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/brisnahuerta">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
 
   <h1 style="font-weight: 900; margin-bottom: -10px;">
     ¡HOLA!
@@ -14,12 +34,6 @@
     Jr. Data Scientist · AI · Machine Learning · BI
   </p>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGoxMDI5dGVuN2xnaDJhazJlZ2xtNjlqamNkMGZ5amkwd3c1dDB3aSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -59,43 +73,16 @@ Mi objetivo es unir **el entendimiento de negocio** con **la técnica**, creando
 # 📂 Proyectos Destacados  
 
 🔹 **[Rusty Bargain – Predicción de precios de autos](https://github.com/brisnahuerta/rusty_bargain)**  
-Modelo de regresión para predecir precios de autos usados. Incluye EDA, ingeniería de características y optimización de hiperparámetros (LightGBM), logrando **RMSE < 0.42**.
-
-🔹 **[Sweet Lift Taxi – Predicción de demanda](https://github.com/brisnahuerta/sweet_lift_taxi)**  
-Modelo de series temporales para estimar demanda de taxis por hora. Alcancé **sMAPE < 48** mediante descomposición estacional y modelos de predicción.
-
-🔹 **[Film Junky Union – Análisis de reseñas IMDB (NLP)](https://github.com/brisnahuerta/film_junky_union)**  
-Clasificación de sentimientos con TF-IDF + Regresión Logística, logrando un **F1 ≥ 0.85**.
-
-🔹 **[Good Seed – Detección de edad con CNN](https://github.com/brisnahuerta/good_seed)**  
-Modelo de Deep Learning basado en **ResNet50** para estimar edad en imágenes. Entrenamiento optimizado con TensorFlow/Keras en GPU.
-
-🔹 **[Interconnect – Predicción de Churn](https://github.com/brisnahuerta/interconnect)**  
-Modelo para predecir abandono de clientes usando múltiples fuentes de datos y feature engineering. Alcancé **AUC > 0.88**.
+🔹 **[Sweet Lift Taxi](https://github.com/brisnahuerta/sweet_lift_taxi)**  
+🔹 **[Film Junky Union (NLP)](https://github.com/brisnahuerta/film_junky_union)**  
+🔹 **[Good Seed – CNN Age Detection](https://github.com/brisnahuerta/good_seed)**  
+🔹 **[Interconnect – Churn Prediction](https://github.com/brisnahuerta/interconnect)**  
 
 ---
 
 ### 🔥 Mis estadísticas  
 
 [![Repos por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brisnahuerta&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
----
-
-### 🔗 Conecta conmigo  
-
-<div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/brisnahuerta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:ibrisna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/brisnahuerta" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
 
 ---
 
