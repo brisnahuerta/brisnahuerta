@@ -14,7 +14,6 @@
     Jr. Data Scientist · AI · Machine Learning · BI
   </p>
 
-
 </div>
 
 ---
@@ -62,7 +61,7 @@ Mi objetivo es unir **el entendimiento de negocio** con **la técnica**, creando
 🔹 **[Rusty Bargain – Predicción de precios de autos](https://github.com/brisnahuerta/rusty_bargain)**  
 Modelo de regresión para predecir precios de autos usados. Incluye EDA, ingeniería de características y optimización de hiperparámetros (LightGBM), logrando **RMSE < 0.42**.
 
-🔹 **[Sweet Lift Taxi – Predicción de demanda](https://github.com/brisnahuerta/sweet-lift-taxi)**  
+🔹 **[Sweet Lift Taxi – Predicción de demanda](https://github.com/brisnahuerta/sweet_lift_taxi)**  
 Modelo de series temporales para estimar demanda de taxis por hora. Alcancé **sMAPE < 48** mediante descomposición estacional y modelos de predicción.
 
 🔹 **[Film Junky Union – Análisis de reseñas IMDB (NLP)](https://github.com/brisnahuerta/film_junky_union)**  
