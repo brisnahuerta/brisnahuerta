@@ -32,17 +32,11 @@
 
 <div style="font-size: 15px; line-height: 1.45;">
 
-Me apasiona **convertir datos en historias que generen valor y decisiones inteligentes**.  
-Mi camino dentro del análisis de datos comenzó en el área de **Nómina y Compensaciones**, donde realizaba análisis enfocados en **prestaciones, compensaciones y propuestas de mejora para los paquetes de remuneración del siguiente año**.
+Mi camino en el análisis comenzó en el área de **Nómina y Compensaciones**, donde trabajé con grandes volúmenes de información evaluando **prestaciones, costos, tendencias salariales y propuestas de mejora** para los paquetes de remuneración anual.
 
-En esa etapa trabajaba con grandes volúmenes de información sobre el personal, interpretando tendencias de costos, evaluando la eficiencia de las prestaciones actuales y generando ideas que apoyaran la planeación financiera y el bienestar de los colaboradores.  
-Ahí descubrí lo poderoso que era ver patrones detrás de los números y cómo un análisis claro podía influir en decisiones de alto impacto para la organización.
+Ahí descubrí lo mucho que disfruto **la estructura, el orden y entender cómo funcionan las cosas**, y también el impacto real que un análisis claro puede tener en la estrategia, el bienestar del personal y la eficiencia operativa.
 
-Esa experiencia también reafirmó habilidades que siempre han formado parte de mí:  
-Mi gusto natural por **la estructura, el orden, la claridad y por entender cómo funcionan las cosas para hacer mi trabajo con calidad**.
-
-A medida que enfrentaba preguntas más complejas —costos proyectados, escenarios futuros, simulaciones, propuestas de mejora de compensaciones— entendí que necesitaba herramientas más sólidas para responder con precisión.  
-Eso me llevó a prepararme en **Data Analytics y Data Science**, donde desarrollé habilidades en:
+A medida que enfrentaba preguntas más complejas entendí que necesitaba profundizar en herramientas más avanzadas, lo que me llevó a estudiar **Data Analytics y Data Science**, donde desarrollé habilidades en:
 
 - Python (Pandas, NumPy, Scikit-Learn, TensorFlow)  
 - SQL  
@@ -52,7 +46,7 @@ Eso me llevó a prepararme en **Data Analytics y Data Science**, donde desarroll
 
 Desde entonces he trabajado en proyectos de **modelos predictivos, validación de datos, análisis exploratorio, optimización y automatización de procesos**, tanto en entornos corporativos como **NielsenIQ y PetStar**, como en proyectos especializados de Machine Learning.
 
-Mi objetivo es unir **el entendimiento de negocio** con **la técnica**, creando soluciones que no solo sean precisas, sino también comprensibles, accionables y con un impacto real.
+Mi objetivo es unir **el entendimiento de negocio** con **la tecnología**, para crear soluciones precisas, útiles y con impacto real.
 
 </div>
 
@@ -80,6 +74,6 @@ Mi objetivo es unir **el entendimiento de negocio** con **la técnica**, creando
 
 <div align="center">
 
-✨ *Turning Data into Insightful Stories* ✨  
+✨ *Convirtiendo datos en historias que generen valor y decisiones inteligentes* ✨  
 
 </div>
