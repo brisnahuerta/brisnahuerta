@@ -79,8 +79,6 @@ Mi objetivo es unir **el entendimiento de negocio** con **la técnica**, creando
 🔹 **[Rusty Bargain – Predicción de precios de autos](https://github.com/brisnahuerta/rusty_bargain)**  
 🔹 **[Sweet Lift Taxi – Predicción de demanda](https://github.com/brisnahuerta/sweet_lift_taxi)**  
 🔹 **[Film Junky Union – NLP en reseñas IMDB](https://github.com/brisnahuerta/film_junky_union)**  
-🔹 **[Good Seed – Detección de edad con CNN](https://github.com/brisnahuerta/good_seed)**  
-🔹 **[Interconnect – Predicción de Churn](https://github.com/brisnahuerta/interconnect)**  
 
 ---
 
