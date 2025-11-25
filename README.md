@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/mnt/data/A_GitHub_profile_README_graphic_introduces_Brisna_.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/brisnahuerta/brisnahuerta/2bbd0b2bf943829dc38b41ee6164e65be9eb5972/def6ea11-5197-452d-96dd-0146d0f60ce0.png" width="100%"/>
 </div>
 
 ---
@@ -40,6 +40,8 @@
 
 # 👩‍💻 Sobre mí  
 
+<div style="font-size: 15px; line-height: 1.45;">
+
 Me apasiona **convertir datos en historias que generen valor y decisiones inteligentes**.  
 Mi camino dentro del análisis de datos comenzó en el área de **Nómina y Compensaciones**, donde realizaba análisis enfocados en **prestaciones, compensaciones y propuestas de mejora para los paquetes de remuneración del siguiente año**.
 
@@ -62,6 +64,8 @@ Desde entonces he trabajado en proyectos de **modelos predictivos, validación d
 
 Mi objetivo es unir **el entendimiento de negocio** con **la técnica**, creando soluciones que no solo sean precisas, sino también comprensibles, accionables y con un impacto real.
 
+</div>
+
 ---
 
 ### 🛠️ Lenguajes y herramientas  
@@ -73,10 +77,10 @@ Mi objetivo es unir **el entendimiento de negocio** con **la técnica**, creando
 # 📂 Proyectos Destacados  
 
 🔹 **[Rusty Bargain – Predicción de precios de autos](https://github.com/brisnahuerta/rusty_bargain)**  
-🔹 **[Sweet Lift Taxi](https://github.com/brisnahuerta/sweet_lift_taxi)**  
-🔹 **[Film Junky Union (NLP)](https://github.com/brisnahuerta/film_junky_union)**  
-🔹 **[Good Seed – CNN Age Detection](https://github.com/brisnahuerta/good_seed)**  
-🔹 **[Interconnect – Churn Prediction](https://github.com/brisnahuerta/interconnect)**  
+🔹 **[Sweet Lift Taxi – Predicción de demanda](https://github.com/brisnahuerta/sweet_lift_taxi)**  
+🔹 **[Film Junky Union – NLP en reseñas IMDB](https://github.com/brisnahuerta/film_junky_union)**  
+🔹 **[Good Seed – Detección de edad con CNN](https://github.com/brisnahuerta/good_seed)**  
+🔹 **[Interconnect – Predicción de Churn](https://github.com/brisnahuerta/interconnect)**  
 
 ---
 
